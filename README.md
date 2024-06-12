@@ -12,12 +12,12 @@ This project is a simple static website designed as part of an internship initia
 - **Responsive Design**: Adaptable to different screen sizes.
 
 ## Technologies Used
--**HTML5**: For the structure of the website.
--**CSS3**: For styling the website.
--**Google Fonts**: For custom fonts.
+- **HTML5**: For the structure of the website.
+- **CSS3**: For styling the website.
+- **Google Fonts**: For custom fonts.
 
 ## Usage
-Navigation: Use the navigation links at the top of the page to jump to different sections (About, Menu, Contact).
+Navigation: Use the navigation links at the top of the page to jump to different sections (About, Menu, Contact). \n
 Contact: View the contact details and use the embedded Google map to find the location.
 
 ## Screenshots
@@ -34,6 +34,6 @@ Contact: View the contact details and use the embedded Google map to find the lo
 ![image](https://github.com/aiswaryanr/Gourmet-au/assets/133225093/6e12a1a7-844b-459d-90cd-8dabe6120d9d)
 
 ## Credits
-Author: Aiswarya N R
-Images: Included images for the coffee and menu sections.
+Author: Aiswarya N R \n
+Images: Included images for the coffee and menu sections. \n
 Fonts: Google Fonts
