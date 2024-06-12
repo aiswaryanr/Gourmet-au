@@ -17,8 +17,8 @@ This project is a simple static website designed as part of an internship initia
 - **Google Fonts**: For custom fonts.
 
 ## Usage
-Navigation: Use the navigation links at the top of the page to jump to different sections (About, Menu, Contact). <br>
-Contact: View the contact details and use the embedded Google map to find the location.
+**Navigation**: Use the navigation links at the top of the page to jump to different sections (About, Menu, Contact). <br>
+**Contact**: View the contact details and use the embedded Google map to find the location.
 
 ## Screenshots
 ### Home Section
