@@ -17,7 +17,7 @@ This project is a simple static website designed as part of an internship initia
 - **Google Fonts**: For custom fonts.
 
 ## Usage
-Navigation: Use the navigation links at the top of the page to jump to different sections (About, Menu, Contact). \n
+Navigation: Use the navigation links at the top of the page to jump to different sections (About, Menu, Contact). <br>
 Contact: View the contact details and use the embedded Google map to find the location.
 
 ## Screenshots
@@ -34,6 +34,6 @@ Contact: View the contact details and use the embedded Google map to find the lo
 ![image](https://github.com/aiswaryanr/Gourmet-au/assets/133225093/6e12a1a7-844b-459d-90cd-8dabe6120d9d)
 
 ## Credits
-Author: Aiswarya N R \n
-Images: Included images for the coffee and menu sections. \n
+Author: Aiswarya N R <br>
+Images: Included images for the coffee and menu sections. <br>
 Fonts: Google Fonts
